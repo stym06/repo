@@ -1,0 +1,32 @@
+.img-rounded{
+	width: 100%;
+	height:162px;
+}
+.container-fluid{
+	width:80%;
+	margin-left:auto;
+	margin-right: auto;
+}
+#modal-image{
+	width:50%;
+	height: 162px;
+	position: relative;
+	left:140px;
+}
+.modal-title{
+	position: relative;
+	left:220px;
+}
+#startQuiz{
+	position: relative;
+	left:850px;
+}
+.answer{
+	padding: 15px 20px;
+	border-radius: 10px;
+	border:1px solid #bbb;
+}
+.answer:hover{
+	cursor:pointer;
+	opacity: 0.8;
+}
